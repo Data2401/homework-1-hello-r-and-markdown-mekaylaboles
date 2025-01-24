@@ -1,6 +1,6 @@
 ---
 title: "Hello R"
-author: "Your Name Goes Here"
+author: "Mekayla Boles"
 date: "Data 2401"
 output: html_document
 ---
