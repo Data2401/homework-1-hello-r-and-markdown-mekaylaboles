@@ -5,6 +5,16 @@ date: "Data 2401"
 output: html_document
 ---
 
+ 
+
+### Packages Loaded
+
+```{r load-packages, message=FALSE}
+library(tidyverse) 
+library(datasauRus)
+```
+
+
 ### Exercise 1
 
 There are 1846 rows and 3 variables. The variables included are: Dataset, x values, and y values.
@@ -63,12 +73,12 @@ circle_data %>%
 
 (Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, with the green +C.)
 
-```{r}
-
-```
 
 ```{r}
 
 ```
 
+```{r}
+
+```
 
